@@ -1,0 +1,101 @@
+/*
+Theme Name: Bootstrap Child Theme
+description: >-
+  Child Theme for Boot Starp
+Author: Matt Lee
+Template: bootstrap
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain: twenty-fifteen-child
+*/
+
+
+#footer-widget {
+	background-color: #262626!important;
+	color: white;
+}
+
+a {
+	color: white;
+}
+
+
+/*----------- Font -------------*/
+h1 {
+    font-family: 'Quicksand', sans-serif;
+}
+
+h2 {
+    font-family: 'Quicksand', sans-serif;
+}
+
+h3 {
+    font-family: 'Quicksand', sans-serif;
+}
+
+h4 {
+    font-family: 'Quicksand', sans-serif;
+}
+
+h5 {
+    font-family: 'Quicksand', sans-serif;
+}
+
+p {
+    font-family: 'Quicksand', sans-serif;
+}
+
+a {
+    font-family: 'Quicksand', sans-serif;
+    color: white!important;
+}
+
+
+/*------- Header Section Styling -----*/
+#masthead {
+    background-color: #262626;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+#masthead a {
+    color: #f8f8f8;
+}
+
+
+#page-sub-header .container{
+    height: 400px;
+} 
+
+/*-------- Footer Styling -------------*/
+
+.site-footer {
+    background-color: #262626;
+}
+
+footer a {
+    color: #f8f8f8;
+}
+
+
+#footer-widget {
+	background-color: #262626!important;
+	color: white;
+}
+
+#footer-widget .container{
+	padding-top: 20px;
+}
+
+
+#footer-widget p {
+    font-size: 12px;
+}
+
+/*-------- Page Styling ------------*/
+
+#content {
+    padding-top: 20px!important;
+}
